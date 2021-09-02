@@ -191,7 +191,7 @@ body {
   cursor: pointer;
 }
 
-.card-link:hover{
+.card-link:hover span{
   color: rgba(90, 152, 208, 0.5);
 }
 
